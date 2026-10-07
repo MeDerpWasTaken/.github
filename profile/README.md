@@ -1,27 +1,17 @@
 ## Welcome to the Computer Science Society! 👋
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
 
 Hi all! Glad to have you here. Here are some basic rules that we will have in place for this organization, most are common sense but please read and follow them. 
 
 **Rules**
-- Follow Discord AND Concordia College guidelines and codes of conduct.
+- Follow GitHub AND Concordia College guidelines and codes of conduct.
 
 - No hate speech, bigotry, or discrimination of any kind
 
 - Please no NSFW content here
 
 - As per the request of the professors, no posting your code from any class projects. Just so no one can copy an assignment exactly as how you made it.
-
 <br><br>
+
 Here is the link to join the Cobber Connect:
 https://cobberconnect.cord.edu/CSSE/club_signup 
 
